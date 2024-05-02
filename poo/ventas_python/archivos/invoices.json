@@ -1,0 +1,70 @@
+[
+  {
+    "factura": 1,
+    "Fecha": "2024-04-22",
+    "cliente": "Daniel Vera",
+    "subtotal": 10.0,
+    "descuento": 1.0,
+    "iva": 1.08,
+    "total": 10.08,
+    "detalle": [
+      {
+        "poducto": "aceite",
+        "precio": 2.0,
+        "cantidad": 2
+      },
+      {
+        "poducto": "Coca Cola",
+        "precio": 1.5,
+        "cantidad": 4
+      }
+    ]
+  },
+  {
+    "factura": 2,
+    "Fecha": "2024-04-22",
+    "cliente": "Dayanna Vera",
+    "subtotal": 34.0,
+    "descuento": 3.4000000000000004,
+    "iva": 3.67,
+    "total": 34.27,
+    "detalle": [
+      {
+        "poducto": "Mortadela",
+        "precio": 2.5,
+        "cantidad": 4
+      },
+      {
+        "poducto": "aceite",
+        "precio": 2.0,
+        "cantidad": 6
+      },
+      {
+        "poducto": "Coca Cola",
+        "precio": 1.5,
+        "cantidad": 8
+      }
+    ]
+  },
+  {
+    "factura": 3,
+    "Fecha": "2024-04-22",
+    "cliente": "Daniel Vera",
+    "subtotal": 16.0,
+    "descuento": 1.6,
+    "iva": 1.73,
+    "total": 16.13,
+    "detalle": [
+      {
+        "poducto": "aceite",
+        "precio": 2.0,
+        "cantidad": 2
+      },
+      {
+        "poducto": "Coca Cola",
+        "precio": 1.5,
+        "cantidad": 8
+      }
+    ]
+  }
+]

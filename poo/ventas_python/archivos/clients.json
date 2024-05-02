@@ -1,0 +1,20 @@
+[
+  {
+    "dni": "9821483920",
+    "nombre": "lkkas",
+    "apellido": "skaks",
+    "num_telef": 981099705
+  },
+  {
+    "dni": "0952555120",
+    "nombre": "Juan Fernando",
+    "apellido": "Aviles Guillen",
+    "num_telef": 123456789
+  },
+  {
+    "dni": "1234567890",
+    "nombre": "Mario Eduardo de la Cruz",
+    "apellido": "Ortiz",
+    "num_telef": 987654321
+  }
+]
